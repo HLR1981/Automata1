@@ -1,0 +1,33 @@
+35	#
+500	Palabra Reservada
+
+
+60	<
+500	Archivo Libreria
+
+
+62	>
+500	Palabra Reservada
+
+
+501	numero_entero
+
+
+59	;
+500	Palabra Reservada
+
+
+501	numero_real
+
+
+59	;
+504	
+
+59	;
+500	Palabra Reservada
+
+
+501	numero_entero
+
+
+59	;
